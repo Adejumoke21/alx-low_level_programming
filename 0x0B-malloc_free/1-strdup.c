@@ -1,5 +1,3 @@
-1-strdup.c
-
 #include "main.h"
 #include <stdlib.h>
 /**
